@@ -1,3 +1,5 @@
 theme: jekyll-rtd-theme
 title: Rest Test Cases
 description: Rest Test Cases
+plugins:
+  - asciidoctor
